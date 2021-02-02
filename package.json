@@ -1,0 +1,19 @@
+{
+  "name": "nexusmods-timer-bypasser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "rollup": "^1.31.0"
+  },
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^7.1.1"
+  }
+}
